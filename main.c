@@ -1,5 +1,5 @@
 #include <stdio.h>
-//判斷座標位於何處
+//判斷座標位於何處https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6951
 int main(){
     int x, y;
     scanf("%d %d", &x, &y);
